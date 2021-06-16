@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CS458_Project2</string>
+    <string name="covid_19_vaccine_survey_page">Covid-19 Vaccine Survey Page</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="send">Send</string>
+    <string name="city">City</string>
+    <string-array name="cities">
+        <item>Adana</item>
+        <item>Adıyaman</item>
+        <item>Afyon</item>
+        <item>Ağrı</item>
+        <item>Amasya</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Artvin</item>
+        <item>Aydın</item>
+        <item>Balıkesir</item>
+        <item>Bilecik</item>
+        <item>Bingöl</item>
+        <item>Bitlis</item>
+        <item>Bolu</item>
+        <item>Burdur</item>
+        <item>Bursa</item>
+    </string-array>
+    <string-array name="vaccineTypes">
+        <item>Pfizer-BioNTech</item>
+        <item>CoronaVac</item>
+        <item>Oxford-AstraZeneca</item>
+        <item>Moderna</item>
+        <item>Sputnik V</item>
+    </string-array>
+</resources>
